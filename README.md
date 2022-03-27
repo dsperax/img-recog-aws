@@ -10,12 +10,13 @@
 - skd: 2.3.2
 - Components: 2.34.9
 
-### Stack:
+### keywords:
 
 - nodejs
 - AWS Lambda;
 - aws rekognition
 - aws translate
+- data-driven programming
 
 ## How to use:
 
