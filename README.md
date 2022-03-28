@@ -22,11 +22,11 @@
 
 https://xks078t908.execute-api.us-east-1.amazonaws.com/dev/analyse?imageUrl=YOUR_URL-IMAGE-HERE
 
-Some URL's:
+Some images URL's:
 - https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg;
 - https://forbes.com.br/wp-content/uploads/2019/05/grumpy-cat-rep-1024x683.jpg;
 
-### Example:
+### Complete link example:
 
 https://xks078t908.execute-api.us-east-1.amazonaws.com/dev/analyse?imageUrl=https://quatrorodas.abril.com.br/wp-content/uploads/2020/01/ford-mustang-gt350r-16.jpg?resize=650,434
 
