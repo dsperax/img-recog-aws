@@ -20,7 +20,7 @@
 
 ## How to use:
 
-https://xks078t908.execute-api.us-east-1.amazonaws.com/dev/analyse?imageUrl={YOUR_URL-IMAGE-HERE}
+https://xks078t908.execute-api.us-east-1.amazonaws.com/dev/analyse?imageUrl=YOUR_URL-IMAGE-HERE
 
 Some URL's:
 - https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg;
