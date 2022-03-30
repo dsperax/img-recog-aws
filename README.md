@@ -17,6 +17,7 @@
 - aws rekognition;
 - aws translate;
 - EDA;
+- Serverless framework;
 
 ## How to use:
 
