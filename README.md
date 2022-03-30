@@ -12,10 +12,11 @@
 
 ### keywords:
 
-- nodejs
+- nodejs;
 - AWS Lambda;
-- aws rekognition
-- aws translate
+- aws rekognition;
+- aws translate;
+- EDA;
 
 ## How to use:
 
