@@ -16,7 +16,6 @@
 - AWS Lambda;
 - aws rekognition
 - aws translate
-- data-driven programming
 
 ## How to use:
 
